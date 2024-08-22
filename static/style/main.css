@@ -1,0 +1,47 @@
+    .container {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .navbar ul {
+        display: flex;
+        justify-content: space-around;
+        list-style-type: none;
+    }
+
+    .tuggle_button{
+        display: none;
+    }
+    
+    .context_card {
+        border: green 10px dotted;
+        padding: 50px;
+        width: 50%;
+    }
+    
+    .content_hidden {
+        display: none;
+    }
+    
+    .button {
+        margin-top: 25px;
+    }
+    
+
+    .tabs ul {
+        list-style-type: none;
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .tabs ul li {
+        text-align: center;
+        border: 2px solid red;
+        width: 250px;
+    }
+
+    .text_print_tab{
+        width: 70%;
+        margin: 0 auto;
+        text-align: center;
+    }

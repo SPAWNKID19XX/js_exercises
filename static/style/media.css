@@ -1,0 +1,15 @@
+@media (max-width: 600px) {
+    .tuggle_button{
+        display: flex;
+        justify-content: right;
+    }
+    .navbar ul {
+        display: block;
+        text-align: center;
+        background-color: rgb(29, 206, 38);
+    }
+
+    .content_hidden_tuggle{
+        display:none;
+    }
+  }
